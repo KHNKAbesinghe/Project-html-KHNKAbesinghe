@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f9a182-942a-4c98-975d-8b2f29c28ed3" name="Changes" comment="Index -Homepage creation">
+    <list default="true" id="03f9a182-942a-4c98-975d-8b2f29c28ed3" name="Changes" comment="addingproducts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Webpage/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpage/Contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Webpage/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpage/Index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Webpage/Product.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpage/Product.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Webpage/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Webpage/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +117,7 @@
       <workItem from="1762717376313" duration="2959000" />
       <workItem from="1762847363898" duration="5358000" />
       <workItem from="1762865890086" duration="1109000" />
-      <workItem from="1762936556530" duration="3927000" />
+      <workItem from="1762936556530" duration="4838000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <option name="closed" value="true" />
@@ -174,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762938026214</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="addingproducts">
+      <option name="closed" value="true" />
+      <created>1762941031116</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762941031116</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,7 +196,8 @@
     <MESSAGE value="Foldercreation" />
     <MESSAGE value="aaa" />
     <MESSAGE value="Index -Homepage creation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Index -Homepage creation" />
+    <MESSAGE value="addingproducts" />
+    <option name="LAST_COMMIT_MESSAGE" value="addingproducts" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Project_html_KHNKAbesinghe$main.coverage" NAME="main Coverage Results" MODIFIED="1762847771424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
