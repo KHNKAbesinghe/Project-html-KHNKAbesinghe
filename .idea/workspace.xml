@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f9a182-942a-4c98-975d-8b2f29c28ed3" name="Changes" comment="Foldercreation">
+    <list default="true" id="03f9a182-942a-4c98-975d-8b2f29c28ed3" name="Changes" comment="aaa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpage - old/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/p1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Webpage - old/img/p1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/p2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Webpage - old/img/p2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/p3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Webpage - old/img/p3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/p4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Webpage - old/img/p4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/p5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Webpage - old/img/p5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/p6.png" beforeDir="false" afterPath="$PROJECT_DIR$/Webpage - old/img/p6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/p7.png" beforeDir="false" afterPath="$PROJECT_DIR$/Webpage - old/img/p7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/p8.png" beforeDir="false" afterPath="$PROJECT_DIR$/Webpage - old/img/p8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpage - old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpage - old/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Webpage - old/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Webpage/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpage/Index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +115,7 @@
       <workItem from="1762717376313" duration="2959000" />
       <workItem from="1762847363898" duration="5358000" />
       <workItem from="1762865890086" duration="1109000" />
-      <workItem from="1762936556530" duration="340000" />
+      <workItem from="1762936556530" duration="1395000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <option name="closed" value="true" />
@@ -168,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762936843381</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="aaa">
+      <option name="closed" value="true" />
+      <created>1762937229967</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762937229967</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +176,8 @@
     <MESSAGE value="WebPage" />
     <MESSAGE value="JavaScript Ex1" />
     <MESSAGE value="Foldercreation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Foldercreation" />
+    <MESSAGE value="aaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaa" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Project_html_KHNKAbesinghe$main.coverage" NAME="main Coverage Results" MODIFIED="1762847771424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
